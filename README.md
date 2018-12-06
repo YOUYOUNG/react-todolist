@@ -10,3 +10,5 @@
 UI组件用的antd
 
 用谷歌redux-devtools插件
+
+# npm start
